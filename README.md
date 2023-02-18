@@ -1,8 +1,8 @@
 ## Ola me chamo Allyson Gonçalves, sou estudante de programação.
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=allysonaggp&show_icons=true&theme=dark"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonaggp&layout=compact&langs_count=16&theme=dark"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=allysonaggp&show_icons=true&theme=dark"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonaggp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
