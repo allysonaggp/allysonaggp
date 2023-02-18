@@ -1,8 +1,8 @@
 ## Ola me chamo Allyson Gonçalves.
 
 <div>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=allysonaggp&show_icons=true&theme=dark"/>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonaggp&layout=compact&langs_count=16&theme=dark"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=allysonaggp&show_icons=true&theme=dark"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonaggp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
