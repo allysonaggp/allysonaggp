@@ -22,8 +22,3 @@
   <a href = "allysonaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-![Snake animation](https://github.com/allysonaggp/blob/output/github-contribuition-grig-snake.svg)
-
-
