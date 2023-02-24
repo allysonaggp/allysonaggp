@@ -6,6 +6,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="All-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java.svg">
   <img align="center" alt="All-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="All-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="All-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
