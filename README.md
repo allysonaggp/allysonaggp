@@ -2,8 +2,8 @@
 
 <!--box com informações do github-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=allysonaggp&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="300"  alt="activity-graph graph"  />
 </div>
 
