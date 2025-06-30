@@ -2,8 +2,8 @@
 
 <!--box com informações do github-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ## Linguagens
