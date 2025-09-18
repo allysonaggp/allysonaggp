@@ -14,6 +14,8 @@
   <img align="center" alt="All-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="All-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="All-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="All-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> 
+  <img align="center" alt="All-Python" height="30" width="30" src="https://camo.githubusercontent.com/36a9b423a0984a4415604a47831b4c659f8f53fcb0a01caefa456beb3cb73495/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3338332f312a636f5f31714f524e644d305049316e764370374969672e706e67"> 
  </div> 
   
   ## Contatos
