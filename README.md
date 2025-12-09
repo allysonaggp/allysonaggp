@@ -16,7 +16,7 @@ Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
 </picture>
 
 <!--Projetos em destaque -->
