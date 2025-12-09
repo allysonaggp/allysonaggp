@@ -2,6 +2,9 @@
 
 <!--box com informações do github-->
 <div align="center">
+![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=allysonaggp&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonaggp&layout=compact&theme=radical)
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
