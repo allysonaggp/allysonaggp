@@ -1,15 +1,40 @@
-## Ola me chamo Allyson Gonçalves.
+<div align="center">
+<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola me chamo Allyson Gonçalves </h1>
+</div>
 
 <!--box com informações do github-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allysonaggp&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="300"  alt="activity-graph graph"  />
+<div align="justfy">
+<p>Desenvolvedor em formação com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil em Fullstack TypeScript.
+Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou expandindo minhas habilidades para o desenvolvimento fullstack moderno.</p>
+<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para         soluções inovadoras e eficientes.</p>
+
+  
+  <a href="https://instagram.com/allysonaggp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:allysonaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
+</picture>
+
+<!--Projetos em destaque -->
+## 💻 Projetos em destaque
+
+### NexBank
+Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
+**Tecnologias:** Python, Flask, SQLAlchemy.  
+🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`
+
+### Bluestore (project-Ecomerce)
+Loja virtual responsiva com carrinho e layouts modernos.  
+**Tecnologias:** HTML, CSS, JavaScript.  
+🔗 `github.com/allysonaggp/project-Ecomerce`
 
 ## Linguagens
 <!--linguagens-->
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
   <!--HTML-->
   <img align="center" alt="HTML" height="36" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg">
   <!--CSS-->
@@ -28,9 +53,5 @@
   
   ## Contatos
 <!--informações de contato-->
-<div> 
-  <a href="https://instagram.com/allysonaggp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:allysonaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 
