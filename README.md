@@ -14,9 +14,9 @@ Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou 
   <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
 </picture>
 
 <!--Projetos em destaque -->
