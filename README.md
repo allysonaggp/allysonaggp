@@ -45,6 +45,8 @@ Loja virtual responsiva com carrinho e layouts modernos.
   <img align="center" alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
   <!--Python-->
   <img align="center" alt="Python"height="30"width="40"src="https://www.svgrepo.com/show/452091/python.svg"> 
+  <!--MySQL-->
+  <img align="center" alt="MySQL"height="32"width="40"src="https://www.svgrepo.com/show/354099/mysql.svg"> 
   <!--Postgres-->
   <img align="center" alt="PostegresSQL"height="36"width="40"src="https://www.svgrepo.com/show/373965/pgsql.svg"> 
   <!--git-->
