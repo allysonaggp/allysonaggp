@@ -13,11 +13,11 @@ Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou 
   <a href = "mailto:allysonaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <!--Projetos em destaque -->
 ## 💻 Projetos em destaque
