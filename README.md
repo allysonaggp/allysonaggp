@@ -51,7 +51,6 @@ Loja virtual responsiva com carrinho e layouts modernos.
   <img align="center" alt="GIt" height="30" width="30" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"> 
  </div> 
   
-  ## Contatos
-<!--informações de contato-->
+ 
 
 
