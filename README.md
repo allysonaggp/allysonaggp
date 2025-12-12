@@ -1,58 +1,96 @@
-<div align="center">
-<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola me chamo Allyson Gonçalves </h1>
+<!-- Apresentação pessoal -->
+<div>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola me chamo Allyson Gonçalves</h1>
 </div>
-
-<!--box com informações do github-->
-<div align="justfy">
+<div>
 <p>Desenvolvedor em formação com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil em Fullstack TypeScript.
 Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou expandindo minhas habilidades para o desenvolvimento fullstack moderno.</p>
-<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para         soluções inovadoras e eficientes.</p>
-
-  
-  <a href="https://instagram.com/allysonaggp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:allysonaggp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</p>
+  <img src="https://github.com/user-attachments/assets/cc06ab11-fdda-4a12-92d5-b075a6998716" />
 </div>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/allysonaggp/allysonaggp/output/pacman-contribution-graph.svg">
-</picture> -->
 
+<br>
+<br>
+<!-- Tecnologias -->
+<div align="center">
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="rust logo"  />
+  <img width="12" />
+  <!-- TypeScrypt -->
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <!-- JavaScrypt -->
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="rust logo"  />
+  <img width="12" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <!-- Nest -->
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <!-- PostegesSQL -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+    <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="amazonwebservices logo"  />
+</div>
+<br>
+<!-- Redes sociais -->
+<div align="center">
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/allyson-gon%C3%A7alves-6398a6168/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>  
+  <!-- Instagran -->
+  <a href="https://instagram.com/allysonaggp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+  <!-- Gmail -->
+  <a href = "mailto:allysonaggp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" height="25"></a>
+  <!-- Discord -->
+  <a><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+</div>
+<br>
+<!--Estatisticas -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div>
 <!--Projetos em destaque -->
-## 💻 Projetos em destaque
+<h2 align="center">💻 Projetos em destaque</h2>
 
 ### NexBank
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
 **Tecnologias:** Python, Flask, SQLAlchemy.  
-🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`
+<a src="github.com/allysonaggp/Projeto_Banco_digital_NexBank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
+
 
 ### Bluestore (project-Ecomerce)
 Loja virtual responsiva com carrinho e layouts modernos.  
 **Tecnologias:** HTML, CSS, JavaScript.  
-🔗 `github.com/allysonaggp/project-Ecomerce`
+<a src="github.com/allysonaggp/project-Ecomerce">🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
-## Linguagens
-<!--linguagens-->
-<div style="display: inline_block" ><br>
-  <!--HTML-->
-  <img align="center" alt="HTML" height="36" width="40" src="https://www.svgrepo.com/show/452228/html-5.svg">
-  <!--CSS-->
-  <img align="center" alt="css" height="36" width="40" src="https://www.svgrepo.com/show/452185/css-3.svg">
-  <!--JavaSript-->
-  <img align="center"alt="JavaSript"height="30"width="40"src="https://www.svgrepo.com/show/349419/javascript.svg">
-  <!--TypeScript-->
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/349540/typescript.svg">
-  <!--Python-->
-  <img align="center" alt="Python"height="30"width="40"src="https://www.svgrepo.com/show/452091/python.svg"> 
-  <!--MySQL-->
-  <img align="center" alt="MySQL"height="32"width="40"src="https://www.svgrepo.com/show/354099/mysql.svg"> 
-  <!--Postgres-->
-  <img align="center" alt="PostegresSQL"height="36"width="40"src="https://www.svgrepo.com/show/373965/pgsql.svg"> 
-  <!--git-->
-  <img align="center" alt="GIt" height="30" width="30" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"> 
- </div> 
-  
+
+</div>
+
+ 
+
+
+
+
+
+
  
 
 
