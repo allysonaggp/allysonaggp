@@ -2,13 +2,16 @@
 <div>
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola me chamo Allyson Gonçalves</h1>
 </div>
-<div>
-<p>Desenvolvedor em formação com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil em Fullstack TypeScript.
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px; background: lightblue;">
+    <h3>Desenvolvedor em formação com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil em Fullstack TypeScript.
 Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou expandindo minhas habilidades para o desenvolvimento fullstack moderno.</p>
-<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</p>
-  <img src="https://github.com/user-attachments/assets/cc06ab11-fdda-4a12-92d5-b075a6998716" />
+<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
+  </div>
+  <div align="center">
+    <img  src="https://github.com/user-attachments/assets/6034ada0-9864-48e9-b516-06691f17556a"  height="300" />
+  </div>
 </div>
-
 <br>
 <br>
 <!-- Tecnologias -->
@@ -81,15 +84,11 @@ Loja virtual responsiva com carrinho e layouts modernos.
 **Tecnologias:** HTML, CSS, JavaScript.  
 <a src="github.com/allysonaggp/project-Ecomerce">🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
-
 </div>
 
- 
-
-
-
-
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=10&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
  
 
