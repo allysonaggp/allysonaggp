@@ -4,9 +4,9 @@
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
-    <h3>Desenvolvedor em formação com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil em Fullstack TypeScript.
-Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou expandindo minhas habilidades para o desenvolvimento fullstack moderno.</p>
-<p>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
+    <h3>Sou Desenvolvedor FullStack com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil.
+Tenho sólida base em HTML, CSS, JavaScript, TypeScript e lógica de programação.</H3>
+<H3>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
   </div>
   <div align="center">
     <img  src="https://github.com/user-attachments/assets/6034ada0-9864-48e9-b516-06691f17556a"  height="300" />
@@ -76,13 +76,13 @@ Tenho sólida base em HTML, CSS, JavaScript e lógica de programação, e estou 
 ### NexBank
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
 **Tecnologias:** Python, Flask, SQLAlchemy.  
-<a src="github.com/allysonaggp/Projeto_Banco_digital_NexBank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
+<a href="github.com/allysonaggp/Projeto_Banco_digital_NexBank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
 
 
 ### Bluestore (project-Ecomerce)
 Loja virtual responsiva com carrinho e layouts modernos.  
 **Tecnologias:** HTML, CSS, JavaScript.  
-<a src="github.com/allysonaggp/project-Ecomerce">🔗 `github.com/allysonaggp/project-Ecomerce`</a>
+<a  href="github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
 </div>
 
@@ -90,6 +90,5 @@ Loja virtual responsiva com carrinho e layouts modernos.
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=10&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
- 
 
 
