@@ -5,7 +5,7 @@
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
     <h3>Sou Desenvolvedor FullStack com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil.
-Tenho sólida base em HTML, CSS, JavaScript, TypeScript e lógica de programação.</H3>
+Tenho sólida base em JavaScript, TypeScript, Python e lógica de programação.</H3>
 <H3>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
   </div>
   <div align="center">
