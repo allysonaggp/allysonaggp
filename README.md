@@ -5,7 +5,7 @@
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
     <h3>Sou Desenvolvedor FullStack com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil.
-Tenho sólida base em JavaScript, TypeScript, Python e lógica de programação.</H3>
+Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação e Banco de dados.</H3>
 <H3>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
   </div>
   <div align="center">
@@ -63,11 +63,11 @@ Tenho sólida base em JavaScript, TypeScript, Python e lógica de programação.
 </div>
 <br>
 <!--Estatisticas -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allysonaggp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allysonaggp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 <div>
 <!--Projetos em destaque -->
