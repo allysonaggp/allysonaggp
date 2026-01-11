@@ -82,7 +82,7 @@ Sistema bancário digital — frontend + backend com foco em segurança e experi
 ### Bluestore (project-Ecomerce)
 Loja virtual responsiva com carrinho e layouts modernos.  
 **Tecnologias:** HTML, CSS, JavaScript.  
-<a  href="github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
+<a  href="https://github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
 </div>
 
