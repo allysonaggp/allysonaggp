@@ -76,7 +76,7 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
 ### NexBank
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
 **Tecnologias:** Python, Flask, SQLAlchemy.  
-<a href="github.com/allysonaggp/Projeto_Banco_digital_NexBank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
+<a href="https://github.com/allysonaggp/nex-bank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
 
 
 ### Bluestore (project-Ecomerce)
