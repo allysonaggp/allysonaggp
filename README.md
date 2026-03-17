@@ -84,6 +84,12 @@ Loja virtual responsiva com carrinho e layouts modernos.
 **Tecnologias:** HTML, CSS, JavaScript.  
 <a  href="https://github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
+
+### NutriGo (project-Ecomerce)
+Um Sistema SaaS completo de delivery de comidas saudáveis.   
+**Tecnologias:**  no Frontend:TypeScript + React + TailWind no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.  
+<a  href="https://nutrigodelivery.vercel.app/" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
+
 </div>
 
 <div>
