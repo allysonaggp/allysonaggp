@@ -72,6 +72,12 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
 <div>
 <!--Projetos em destaque -->
 <h2 align="center">💻 Projetos em destaque</h2>
+  
+### NutriGo (project-Ecomerce)
+Um Sistema SaaS completo de delivery de comidas saudáveis.   
+**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.  
+<a  href="https://nutrigo.site" >🔗 `https://nutrigo.site`</a>
+
 
 ### NexBank
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
@@ -85,10 +91,6 @@ Loja virtual responsiva com carrinho e layouts modernos.
 <a  href="https://github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
 
-### NutriGo (project-Ecomerce)
-Um Sistema SaaS completo de delivery de comidas saudáveis.   
-**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.  
-<a  href="https://nutrigo.site" >🔗 `https://nutrigo.site`</a>
 
 </div>
 
