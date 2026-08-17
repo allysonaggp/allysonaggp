@@ -44,7 +44,7 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="nestjs logo"  />
   <img width="12" />
   <!-- N8n -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yDjJGQT55y6sPPZmje07F5-i40Cu9oc4dYt-uFjMGg&s=10" height="60" alt="nestjs logo"  />
+  <img src="https://bjzdesign.com/wp-content/uploads/2025/10/n8n-600x600.webp" height="60" alt="nestjs logo"  />
   <img width="12" />
   <!-- PostegesSQL -->
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="nestjs logo"  />
