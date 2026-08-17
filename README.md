@@ -37,8 +37,14 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
   <!-- Nest -->
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
-   <!-- Docker -->
+  <!-- Docker -->
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <!-- Linux -->
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <!-- N8n -->
+  <img src="https://skillicons.dev/icons?i=n8n" height="60" alt="nestjs logo"  />
   <img width="12" />
   <!-- PostegesSQL -->
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="nestjs logo"  />
