@@ -82,11 +82,15 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
 <!--Projetos em destaque -->
 <h2 align="center">💻 Projetos em destaque</h2>
   
-### NutriGo (project-Ecomerce)
+### NutriGo (project-Ecomerce SaaS)
 Um Sistema SaaS completo de delivery de comidas saudáveis.   
 **Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.  
 <a  href="https://nutrigo.site" >🔗 `https://nutrigo.site`</a>
 
+### Vestiment (project-Ecomerce)
+Projeto fullstack de um ecommerce de roupas.   
+**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados. 
+<a href="https://vestiment.vercel.app">🔗 `https://vestiment.vercel.app`</a>
 
 ### NexBank
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
