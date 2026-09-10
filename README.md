@@ -89,10 +89,10 @@ Um Sistema SaaS completo de delivery de comidas saudáveis.
 
 ### Vestiment (project-Ecomerce)
 Projeto fullstack de um ecommerce de roupas.   
-**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados. 
+**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.        
 <a href="https://vestiment.vercel.app">🔗 `https://vestiment.vercel.app`</a>
 
-### NexBank
+### NexBank (project-Bank)
 Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
 **Tecnologias:** Python, Flask, SQLAlchemy.  
 <a href="https://github.com/allysonaggp/nex-bank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
