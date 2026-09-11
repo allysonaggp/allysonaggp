@@ -99,15 +99,13 @@ Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como ban
 
 ### 🏦 NexBank — Sistema Bancário
 Sistema bancário desenvolvido com foco em regras de negócio, persistência de dados e APIs. <br>
-**Tecnologias:**<br>
-Python, Flask, SQLAlchemy.<br>
+**Tecnologias:** Python, Flask, SQLAlchemy.<br>
 <a href="https://github.com/allysonaggp/nex-bank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
 
 
 ### 🛍️ Bluestore — E-commerce
 Projeto de e-commerce, desenvolvido para praticar interface responsiva, JavaScript e lógica de carrinho.<br>
-**Tecnologias:**<br>
-Frontend: HTML, CSS, JavaScript.  
+**Tecnologias:** HTML, CSS, JavaScript.  
 <a  href="https://github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
 
