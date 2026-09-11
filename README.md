@@ -1,6 +1,6 @@
 <!-- Apresentação pessoal -->
 <div>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ola me chamo Allyson Gonçalves</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá me chamo Allyson Gonçalves</h1>
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
@@ -22,10 +22,10 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
   <!-- CSS -->
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="rust logo"  />
   <img width="12" />
-  <!-- TypeScrypt -->
+  <!-- TypeScript -->
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <!-- JavaScrypt -->
+  <!-- JavaScript -->
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="rust logo"  />
   <img width="12" />
   <!-- Python -->
