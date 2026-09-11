@@ -82,24 +82,26 @@ Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação 
 <!--Projetos em destaque -->
 <h2 align="center">💻 Projetos em destaque</h2>
   
-### NutriGo (project-Ecomerce SaaS)
-Um Sistema SaaS completo de delivery de comidas saudáveis.   
-**Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.  
+### 🥗 NutriGo — SaaS de Delivery
+Plataforma Full Stack de delivery com autenticação, múltiplos estabelecimentos, carrinho e gerenciamento de pedidos.  
+**Tecnologias:**  no Frontend:TypeScript + React + TailWind, 
+                  no Backend: TypeScript + NestJS + Argon2 + Jwt + Swagguer com PostegresSQL como banco de dados. 
+Infraestrutura: Docker • Linux • Nginx • Cloudflare
 <a  href="https://nutrigo.site" >🔗 `https://nutrigo.site`</a>
 
-### Vestiment (project-Ecomerce)
-Projeto fullstack de um ecommerce de roupas.   
+### 👕 Vestiment — E-commerce
+E-commerce Full Stack com autenticação, produtos, categorias, carrinho e gerenciamento de pedidos.
 **Tecnologias:**  no Frontend:TypeScript + React + TailWind, no Backend: TypeScript + NestJS + Bcrypt + Jwt + Swagguer com PostegresSQL como banco de dados.        
 <a href="https://vestiment.vercel.app">🔗 `https://vestiment.vercel.app`</a>
 
-### NexBank (project-Bank)
-Sistema bancário digital — frontend + backend com foco em segurança e experiência do usuário.  
+### 🏦 NexBank — Sistema Bancário
+Sistema bancário desenvolvido com foco em regras de negócio, persistência de dados e APIs. 
 **Tecnologias:** Python, Flask, SQLAlchemy.  
 <a href="https://github.com/allysonaggp/nex-bank">🔗 `github.com/allysonaggp/Projeto_Banco_digital_NexBank`</a>
 
 
-### Bluestore (project-Ecomerce)
-Loja virtual responsiva com carrinho e layouts modernos.  
+### 🛍️ Bluestore — E-commerce
+Projeto de e-commerce, desenvolvido para praticar interface responsiva, JavaScript e lógica de carrinho.
 **Tecnologias:** HTML, CSS, JavaScript.  
 <a  href="https://github.com/allysonaggp/project-Ecomerce" >🔗 `github.com/allysonaggp/project-Ecomerce`</a>
 
