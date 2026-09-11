@@ -4,9 +4,10 @@
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
-    <h3>Sou Desenvolvedor FullStack com experiência prévia em liderança e gestão, atualmente cursando Análise e Desenvolvimento de Software e participando do bootcamp intensivo da Generation Brasil.
-Tenho sólida base em JavaScript, TypeScript, Python e Lógica de programação e Banco de dados.</H3>
-<H3>Minha trajetória une disciplina adquirida na Força Aérea Brasileira e experiência comercial com tecnologia, buscando contribuir para soluções inovadoras e eficientes</h3>
+    <h3>Sou Desenvolvedor Full Stack, com foco em TypeScript, React, NestJS e PostgreSQL, além de experiência com Python, Docker e infraestrutura Linux. Atualmente curso Análise e Desenvolvimento de Sistemas e concluí minha formação Full Stack pela Generation Brasil.
+
+Minha trajetória em liderança, gestão, área comercial e na Força Aérea Brasileira trouxeram disciplina, responsabilidade e visão de negócio, que hoje aplico no desenvolvimento de aplicações e na busca por soluções práticas e eficientes.
+</h3>
   </div>
   <div align="center">
     <img  src="https://github.com/user-attachments/assets/6034ada0-9864-48e9-b516-06691f17556a"  height="300" />
