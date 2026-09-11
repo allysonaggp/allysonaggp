@@ -17,10 +17,10 @@ Minha trajetória em liderança, gestão, área comercial e na Força Aérea Bra
 <br>
 <!-- Tecnologias -->
 <div align="center">
-  <!-- HTML -->
+  <!-- HTML 
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="typescript logo"  />
   <img width="12" />
-  <!-- CSS -->
+  <!-- CSS 
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="rust logo"  />
   <img width="12" />
   <!-- TypeScript -->
