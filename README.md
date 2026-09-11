@@ -4,7 +4,7 @@
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background: lightblue;">
-    <h3>Sou Desenvolvedor Full Stack, com foco em TypeScript, React, NestJS e PostgreSQL, além de experiência com Python, Docker e infraestrutura Linux. Atualmente curso Análise e Desenvolvimento de Sistemas e concluí minha formação Full Stack pela Generation Brasil.
+    <h3>Sou Desenvolvedor Full Stack, com foco em TypeScript, React, NestJS e PostgreSQL, além de experiência com Python, Docker e infraestrutura Linux. Atualmente curso Análise e Desenvolvimento de Sistemas e concluí minha formação Full Stack pela Generation Brasil.<br><br>
 
 Minha trajetória em liderança, gestão, área comercial e na Força Aérea Brasileira trouxeram disciplina, responsabilidade e visão de negócio, que hoje aplico no desenvolvimento de aplicações e na busca por soluções práticas e eficientes.
 </h3>
